@@ -1,5 +1,7 @@
 # Portfolio - Frans Ekberg
 
+My name is Frans Ekberg, and I am a student at KTH. I'm studying my second year in Information and Communication Technology (300 HP) under the [IT-chapter](https://kth.it/). I'm from Stockholm, and my main language is Swedish. I am currently the main "Studerandeskyddsombud" or Student Safety Officer at the IT-chapter. I am also a Teamleader in the "Klubbmästeri" or Mastery TMEIT at the IT-chapter.
+
 ## Contact Information
 - Telephone: +46 70 739 79 56
 - Email: frans.o.ekberg@gmail.com
