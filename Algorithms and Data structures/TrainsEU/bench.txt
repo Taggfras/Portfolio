@@ -1,0 +1,101 @@
+
+Berlin & Köpenhamn & 381 & 0.01 \\
+Berlin & Stockholm & 696 & 0.03 \\
+Berlin & Kiruna & 1585 & 0.06 \\
+Berlin & Kiruna & 1585 & 0.11 \\
+Narvik & Berlin & 1775 & 0.04 \\
+Narvik & Barcelona & 2540 & 0.11 \\
+Narvik & Madrid & 2698 & 0.04 \\
+Vasa & Madrid & 2422 & 0.17 \\
+Vasa & Madrid & 2422 & 0.08 \\
+Reykavik & Madrid & NULL & 0.04 \\
+Reykavik & Stockholm & NULL & 0.00 \\
+Stockholm & Madrid & 1619 & 0.05 \\
+Stockholm & Hamburg & 591 & 0.03 \\
+Stockholm & Hamburg & 591 & 0.04 \\
+Stockholm & Hamburg & 591 & 0.03 \\
+Stockholm & Hamburg & 591 & 0.29 \\
+Stockholm & Hamburg & 591 & 0.67 \\
+Stockholm & Hamburg & 591 & 0.24 \\
+Stockholm & Hamburg & 591 & 0.30 \\
+Stockholm & Hamburg & 591 & 0.30 \\
+Stockholm & Hamburg & 591 & 0.39 \\
+Stockholm & Hamburg & 591 & 0.30 \\
+Stockholm & Hamburg & 591 & 0.28 \\
+Stockholm & Hamburg & 591 & 0.29 \\
+Stockholm & Hamburg & 591 & 0.12 \\
+Stockholm & Hamburg & 591 & 0.09 \\
+Stockholm & Hamburg & 591 & 0.11 \\
+Stockholm & Hamburg & 591 & 0.20 \\
+Stockholm & Hamburg & 591 & 0.11 \\
+Stockholm & Hamburg & 591 & 0.05 \\
+Narvik & Madrid & 2698 & 0.18 \\
+Narvik & Rom & 2688 & 0.21 \\
+
+Narvik & Foggia & 2834 & 0.15 \\
+Narvik & Foggia & 2650 & 0.17 \\
+
+Narvik & Pascara & NULL & 0.28 \\
+Narvik & Pescara & 2744 & 0.21 \\
+Narvik & Bari & 2895 & 0.20 \\
+Narvik & Brindisi & 2948 & 0.24 \\
+
+
+Narvik & Taranto & 2972 & 0.16 \\
+Narvik & Taranto & 2788 & 0.22 \\
+
+
+Narvik & Brindisi & 2764 & 0.23 \\
+Narvik & Bari & 2711 & 0.09 \\
+Narvik & Pescara & 2560 & 0.23 \\
+
+Narvik & Valencia & 2712 & 0.16 \\
+Narvik & Valencia & 2528 & 0.14 \\
+
+Narvik & Valencia & 2528 & 0.15 \\
+Narvik & Valencia & 2528 & 0.17 \\
+
+Narvik & Taranto & 2788 & 0.29 \\
+Narvik & Brindisi & 2764 & 0.33 \\
+Narvik & Bari & 2711 & 0.18 \\
+Narvik & Neapel & 2577 & 0.11 \\
+
+
+
+Malmö & Kiruna & 1162
+ & 0.24 \\
+Kiruna & Malmö & 1162
+ & 0.13 \\
+Stockholm & Göteborg & 211
+ & 0.05 \\
+ & 0.04 \\
+Malmö & Göteborg & 153
+ & 0.04 \\
+ & 0.01 \\
+Sundsvall & Umeå & 190
+ & 0.01 \\
+ & 0.00 \\
+Stockholm & Hamburg & 407 & 0.17 \\
+Stockholm & Hamburg & 407 & 0.08 \\
+
+Stockholm & Madrid & 1435 & Null & 0.21 \\
+Stockholm & Valencia & 1449 & Null & 0.89 \\
+Stockholm & Valencia & 1449 & Null & 0.19 \\
+Narvik & Valencia & 2528 & Null & 0.28 \\
+Valencia & Narvik & 2528 & Null & 0.23 \\
+Narvik & Valencia & 2528 & Null & 0.31 \\
+Narvik & Valencia & 2528 & Null & 0.21 \\
+Valencia & Narvik & 2528 & Null & 0.35 \\
+Valencia & Narvik & 2528 & Null & 3.75 \\
+Valencia & Narvik & 2528 & Null & 0.22 \\
+
+Narvik & Taranto & 2788 & Null & 0.25 \\
+Taranto & Narvik & 2788 & Null & 0.14 \\
+
+Edinburgh & Marseille & 734 & Null & 0.03 \\
+Edinburgh & Neaple & NULL & 0.25 \\
+Edinburgh & Neapel & 1449 & Null & 0.71 \\
+Edinburgh & Taranto & 1733 & Null & 0.14 \\
+Taranto & Edinburgh & 1733 & Null & 0.20 \\
+Edinburgh & Narvik & 2324 & Null & 0.23 \\
+Narvik & Edinburgh & 2324 & Null & 0.25 \\

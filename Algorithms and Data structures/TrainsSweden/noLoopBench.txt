@@ -1,0 +1,9 @@
+From & To & Path & Time (ms)
+Malmö & Göteborg & 153 & 517.51
+Malmö & Helsingborg & 48 & 1485.99
+Stockholm & Göteborg & 211 & 1471.28
+Göteborg & Stockholm & 211 & 1482.89
+Umeå & Göteborg & 705 & 869.60
+Göteborg & Umeå & 705 & 3364.86
+Sundsvall & Umeå & 190 & 2015.69
+Umeå & Sundsvall & 190 & 773.28

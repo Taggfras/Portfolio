@@ -1,0 +1,21 @@
+Malmö & Göteborg & 153 & 0.18 \\
+Malmö & Helsingborg & 48 & 0.63 \\
+
+Stockholm & Göteborg & 211 & 0.10 \\
+Göteborg & Stockholm & 211 & 0.12 \\
+
+Umeå & Göteborg & 705 & 0.35 \\
+Göteborg & Umeå & 705 & 71.70 \\
+
+Sundsvall & Umeå & 190 & 1590.55 \\
+Umeå & Sundsvall & 190 & 0.00 \\
+
+Malmö & Kiruna & 1162 & 706.46 \\
+Kiruna & Malmö & 1162 & 0.80 \\
+
+Sundsvall & Umeå & 190 & 0.00 \\
+Umeå & Sundsvall & 190 & 0.00 \\
+
+
+
+Göteborg & Luleå & 917 & 70.63 \\

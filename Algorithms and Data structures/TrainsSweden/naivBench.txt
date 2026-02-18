@@ -1,0 +1,13 @@
+From & To & Limit & Path & Time (ms) \\
+Malmö & Göteborg & 200 & 153 & 0.02 \\
+Malmö & Göteborg & 300 & 153 & 0.54 \\
+Göteborg & Stockholm & 300 & 211 & 0.44 \\
+Malmö & Stockholm & 300 & 273 & 0.55 \\
+Stockholm & Sundsvall & 400 & 327 & 12.36 \\
+Stockholm & Umeå & 600 & 517 & 23738.15 \\
+Stockholm & Umeå & 550 & 517 & 3616.72 \\
+Göteborg & Sundsvall & 550 & 515 & 5353.95 \\
+Sundsvall & Umeå & 500 & 190 & 0.05 \\
+Sundsvall & Umeå & 300 & 190 & 0.00 \\
+Umeå & Göteborg & 800 & 705 & 1.60 \\
+Göteborg & Umeå & 710 & Unkn & DNF \\
