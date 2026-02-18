@@ -1,0 +1,8 @@
+../Core/Src/intersectionControl.c:30:6:initControler	8	static
+../Core/Src/intersectionControl.c:34:6:intersection	16	static
+../Core/Src/intersectionControl.c:75:6:resetTiming	4	static
+../Core/Src/intersectionControl.c:92:6:toggle_PedIndicatorLight	16	static
+../Core/Src/intersectionControl.c:116:6:toggle_Intersection	8	static
+../Core/Src/intersectionControl.c:142:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/intersectionControl.c:184:6:timer10ms_timeout	16	static
+../Core/Src/intersectionControl.c:207:9:toggle_Car	24	static

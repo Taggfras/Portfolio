@@ -1,0 +1,6 @@
+../Core/Src/lightCycle.c:19:6:init_Intersection	8	static
+../Core/Src/lightCycle.c:35:6:cycle_Intersection	16	static
+../Core/Src/lightCycle.c:85:6:blink_Ped_Indicator	24	static
+../Core/Src/lightCycle.c:100:6:set_TLight	16	static
+../Core/Src/lightCycle.c:149:6:update_lights	24	static
+../Core/Src/lightCycle.c:176:6:delay	24	static
